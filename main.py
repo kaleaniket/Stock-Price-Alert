@@ -9,7 +9,7 @@ STOCK_KEY = "YOUR STOCK API KEY"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
 NEWS_KEY = "YOUR NEWS API KEY"
 
-account_sid = "ACCOUNT id" #YOU HAVE TO SIGN IN TO THE twilio.com FOR ID AND TOKEN
+account_sid = "ACCOUNT id" #YOU CAN GET YOUR ACCOUNT ID AND TOKEN BY SIGNING IN TO twilio.com
 auth_token = "TOKEN"
 
 
