@@ -69,7 +69,7 @@ if percentage > 0:
         message = client.messages.create(
             body=article,
             from_="NUMBER WHICH YOU GET FROM TWILIO",
-            to="YOUR TWILIO REGISTERED MOBILE NUMBER"
+            to="YOUR TWILIO REGISTERED MOBILE NUMBER" #YOU WILL RECIEVE MESSAGE NOTIFICATION ON THIS NUMBER AS SOON AS THE STOCK GOES HIGH OR LOW
         )
         print(message.status)
 
